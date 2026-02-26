@@ -1,0 +1,7002 @@
+[
+    {
+        "RecordID": 1,
+        "Timestamp": "2026-01-15 00:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 2,
+        "Timestamp": "2026-01-20 18:13:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 3,
+        "Timestamp": "2026-01-21 20:14:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 4,
+        "Timestamp": "2026-01-07 08:27:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 5,
+        "Timestamp": "2026-01-24 12:43:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 6,
+        "Timestamp": "2026-01-20 15:45:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 7,
+        "Timestamp": "2026-01-18 20:05:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 8,
+        "Timestamp": "2026-01-25 00:15:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 9,
+        "Timestamp": "2026-01-30 13:21:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 10,
+        "Timestamp": "2026-01-09 11:01:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 11,
+        "Timestamp": "2026-01-15 12:04:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 12,
+        "Timestamp": "2026-01-07 09:35:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 13,
+        "Timestamp": "2026-01-24 12:46:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 14,
+        "Timestamp": "2026-01-28 08:20:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 15,
+        "Timestamp": "2026-01-09 11:11:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 16,
+        "Timestamp": "2026-01-11 07:44:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 17,
+        "Timestamp": "2026-01-17 20:13:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 18,
+        "Timestamp": "2026-01-09 08:35:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 19,
+        "Timestamp": "2026-01-24 05:16:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 20,
+        "Timestamp": "2026-01-13 05:04:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 21,
+        "Timestamp": "2026-01-20 06:14:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 22,
+        "Timestamp": "2026-01-30 14:51:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 23,
+        "Timestamp": "2026-01-08 01:02:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 24,
+        "Timestamp": "2026-01-19 00:06:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 25,
+        "Timestamp": "2026-01-19 16:23:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 26,
+        "Timestamp": "2026-01-19 10:37:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 27,
+        "Timestamp": "2026-01-15 12:39:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 28,
+        "Timestamp": "2026-01-11 14:23:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 29,
+        "Timestamp": "2026-01-12 08:47:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 30,
+        "Timestamp": "2026-01-07 13:53:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 31,
+        "Timestamp": "2026-01-14 20:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 32,
+        "Timestamp": "2026-01-02 09:40:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 33,
+        "Timestamp": "2026-01-02 05:38:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 34,
+        "Timestamp": "2026-01-04 04:19:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 35,
+        "Timestamp": "2026-01-11 13:19:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 36,
+        "Timestamp": "2026-01-07 06:34:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 37,
+        "Timestamp": "2026-01-19 12:47:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 38,
+        "Timestamp": "2026-01-20 10:24:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 39,
+        "Timestamp": "2026-01-20 03:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 40,
+        "Timestamp": "2026-01-02 11:34:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 41,
+        "Timestamp": "2026-01-01 09:38:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 42,
+        "Timestamp": "2026-01-28 23:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 43,
+        "Timestamp": "2026-01-23 22:27:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 44,
+        "Timestamp": "2026-01-12 11:55:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 45,
+        "Timestamp": "2026-01-14 06:04:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 46,
+        "Timestamp": "2026-01-22 02:48:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 47,
+        "Timestamp": "2026-01-22 09:39:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 48,
+        "Timestamp": "2026-01-30 23:21:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 49,
+        "Timestamp": "2026-01-17 01:40:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 50,
+        "Timestamp": "2026-01-15 15:11:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 51,
+        "Timestamp": "2026-01-14 04:41:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 52,
+        "Timestamp": "2026-01-04 00:02:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 53,
+        "Timestamp": "2026-01-09 03:36:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 54,
+        "Timestamp": "2026-01-17 15:49:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 55,
+        "Timestamp": "2026-01-10 16:04:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 56,
+        "Timestamp": "2026-01-17 04:43:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 57,
+        "Timestamp": "2026-01-19 23:09:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 58,
+        "Timestamp": "2026-01-13 03:57:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 59,
+        "Timestamp": "2026-01-15 06:39:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 60,
+        "Timestamp": "2026-01-02 15:27:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 61,
+        "Timestamp": "2026-01-30 21:55:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 62,
+        "Timestamp": "2026-01-02 08:08:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 63,
+        "Timestamp": "2026-01-10 07:50:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 64,
+        "Timestamp": "2026-01-19 00:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 65,
+        "Timestamp": "2026-01-14 03:51:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 66,
+        "Timestamp": "2026-01-22 18:45:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 67,
+        "Timestamp": "2026-01-03 18:10:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 68,
+        "Timestamp": "2026-01-05 23:06:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 69,
+        "Timestamp": "2026-01-07 03:55:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 70,
+        "Timestamp": "2026-01-13 17:33:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 71,
+        "Timestamp": "2026-01-16 05:50:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 72,
+        "Timestamp": "2026-01-15 16:14:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 73,
+        "Timestamp": "2026-01-29 17:54:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 74,
+        "Timestamp": "2026-01-05 22:59:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 75,
+        "Timestamp": "2026-01-07 08:25:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 76,
+        "Timestamp": "2026-01-29 07:24:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 77,
+        "Timestamp": "2026-01-19 16:23:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 78,
+        "Timestamp": "2026-01-24 04:28:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 79,
+        "Timestamp": "2026-01-07 19:41:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 80,
+        "Timestamp": "2026-01-09 19:11:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 81,
+        "Timestamp": "2026-01-06 13:25:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 82,
+        "Timestamp": "2026-01-10 00:26:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 83,
+        "Timestamp": "2026-01-19 01:33:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 84,
+        "Timestamp": "2026-01-17 16:52:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 85,
+        "Timestamp": "2026-01-20 09:48:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 86,
+        "Timestamp": "2026-01-01 21:28:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 87,
+        "Timestamp": "2026-01-07 19:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 88,
+        "Timestamp": "2026-01-09 12:31:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 89,
+        "Timestamp": "2026-01-14 11:52:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 90,
+        "Timestamp": "2026-01-10 00:14:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 91,
+        "Timestamp": "2026-01-17 04:38:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 92,
+        "Timestamp": "2026-01-19 01:13:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 93,
+        "Timestamp": "2026-01-02 11:50:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 94,
+        "Timestamp": "2026-01-07 15:48:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 95,
+        "Timestamp": "2026-01-22 01:58:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 96,
+        "Timestamp": "2026-01-21 09:09:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 97,
+        "Timestamp": "2026-01-12 00:50:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 98,
+        "Timestamp": "2026-01-28 12:49:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 99,
+        "Timestamp": "2026-01-29 16:44:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 100,
+        "Timestamp": "2026-01-12 09:55:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 101,
+        "Timestamp": "2026-01-16 15:00:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 102,
+        "Timestamp": "2026-01-17 10:25:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 103,
+        "Timestamp": "2026-01-23 11:07:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 104,
+        "Timestamp": "2026-01-13 09:03:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 105,
+        "Timestamp": "2026-01-04 15:39:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 106,
+        "Timestamp": "2026-01-08 11:18:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 107,
+        "Timestamp": "2026-01-23 06:26:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 108,
+        "Timestamp": "2026-01-10 14:31:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 109,
+        "Timestamp": "2026-01-23 17:30:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 110,
+        "Timestamp": "2026-01-10 08:25:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 111,
+        "Timestamp": "2026-01-10 19:20:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 112,
+        "Timestamp": "2026-01-02 08:08:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 113,
+        "Timestamp": "2026-01-15 01:30:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 114,
+        "Timestamp": "2026-01-02 12:47:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 115,
+        "Timestamp": "2026-01-23 14:32:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 116,
+        "Timestamp": "2026-01-21 01:52:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 117,
+        "Timestamp": "2026-01-08 10:47:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 118,
+        "Timestamp": "2026-01-03 19:14:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 119,
+        "Timestamp": "2026-01-23 10:08:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 120,
+        "Timestamp": "2026-01-23 13:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 121,
+        "Timestamp": "2026-01-22 01:40:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 122,
+        "Timestamp": "2026-01-08 20:58:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 123,
+        "Timestamp": "2026-01-09 10:23:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 124,
+        "Timestamp": "2026-01-24 03:57:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 125,
+        "Timestamp": "2026-01-21 18:21:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 126,
+        "Timestamp": "2026-01-03 21:36:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 127,
+        "Timestamp": "2026-01-20 16:07:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 128,
+        "Timestamp": "2026-01-03 08:46:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 129,
+        "Timestamp": "2026-01-22 09:47:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 130,
+        "Timestamp": "2026-01-22 06:49:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 131,
+        "Timestamp": "2026-01-25 11:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 132,
+        "Timestamp": "2026-01-25 18:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 133,
+        "Timestamp": "2026-01-26 19:20:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 134,
+        "Timestamp": "2026-01-12 10:38:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 135,
+        "Timestamp": "2026-01-04 02:59:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 136,
+        "Timestamp": "2026-01-13 06:58:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 137,
+        "Timestamp": "2026-01-14 02:31:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 138,
+        "Timestamp": "2026-01-13 16:55:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 139,
+        "Timestamp": "2026-01-05 10:16:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 140,
+        "Timestamp": "2026-01-29 13:40:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 141,
+        "Timestamp": "2026-01-26 07:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 142,
+        "Timestamp": "2026-01-29 12:48:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 143,
+        "Timestamp": "2026-01-06 07:10:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 144,
+        "Timestamp": "2026-01-02 23:14:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 145,
+        "Timestamp": "2026-01-25 06:16:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 146,
+        "Timestamp": "2026-01-09 17:04:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 147,
+        "Timestamp": "2026-01-19 16:25:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 148,
+        "Timestamp": "2026-01-20 22:05:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 149,
+        "Timestamp": "2026-01-14 21:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 150,
+        "Timestamp": "2026-01-01 19:04:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 151,
+        "Timestamp": "2026-01-04 23:33:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 152,
+        "Timestamp": "2026-01-13 02:11:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 153,
+        "Timestamp": "2026-01-12 09:36:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 154,
+        "Timestamp": "2026-01-02 13:20:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 155,
+        "Timestamp": "2026-01-20 15:55:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 156,
+        "Timestamp": "2026-01-25 16:41:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 157,
+        "Timestamp": "2026-01-16 02:25:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 158,
+        "Timestamp": "2026-01-08 19:50:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 159,
+        "Timestamp": "2026-01-10 09:57:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 160,
+        "Timestamp": "2026-01-06 00:02:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 161,
+        "Timestamp": "2026-01-08 00:28:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 162,
+        "Timestamp": "2026-01-22 23:57:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 163,
+        "Timestamp": "2026-01-03 11:48:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 164,
+        "Timestamp": "2026-01-13 03:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 165,
+        "Timestamp": "2026-01-02 15:16:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 166,
+        "Timestamp": "2026-01-16 21:25:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 167,
+        "Timestamp": "2026-01-11 18:29:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 168,
+        "Timestamp": "2026-01-25 05:44:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 169,
+        "Timestamp": "2026-01-19 19:19:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 170,
+        "Timestamp": "2026-01-10 07:32:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 171,
+        "Timestamp": "2026-01-26 16:17:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 172,
+        "Timestamp": "2026-01-19 05:22:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 173,
+        "Timestamp": "2026-01-21 11:29:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 174,
+        "Timestamp": "2026-01-20 17:52:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 175,
+        "Timestamp": "2026-01-16 01:57:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 176,
+        "Timestamp": "2026-01-09 19:36:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 177,
+        "Timestamp": "2026-01-25 20:23:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 178,
+        "Timestamp": "2026-01-01 15:36:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 179,
+        "Timestamp": "2026-01-30 21:36:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 180,
+        "Timestamp": "2026-01-09 15:43:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 181,
+        "Timestamp": "2026-01-03 05:29:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 182,
+        "Timestamp": "2026-01-07 22:21:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 183,
+        "Timestamp": "2026-01-01 03:06:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 184,
+        "Timestamp": "2026-01-15 07:05:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 185,
+        "Timestamp": "2026-01-20 10:27:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 186,
+        "Timestamp": "2026-01-03 09:14:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 187,
+        "Timestamp": "2026-01-17 16:53:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 188,
+        "Timestamp": "2026-01-22 14:56:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 189,
+        "Timestamp": "2026-01-15 22:47:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 190,
+        "Timestamp": "2026-01-22 11:47:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 191,
+        "Timestamp": "2026-01-02 02:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 192,
+        "Timestamp": "2026-01-19 23:17:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 193,
+        "Timestamp": "2026-01-16 17:46:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 194,
+        "Timestamp": "2026-01-09 16:28:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 195,
+        "Timestamp": "2026-01-21 13:54:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 196,
+        "Timestamp": "2026-01-26 15:44:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 197,
+        "Timestamp": "2026-01-07 22:05:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 198,
+        "Timestamp": "2026-01-04 14:27:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 199,
+        "Timestamp": "2026-01-15 00:01:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 200,
+        "Timestamp": "2026-01-03 06:42:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 201,
+        "Timestamp": "2026-01-18 08:11:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 202,
+        "Timestamp": "2026-01-30 16:15:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 203,
+        "Timestamp": "2026-01-24 15:24:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 204,
+        "Timestamp": "2026-01-05 20:51:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 205,
+        "Timestamp": "2026-01-09 14:56:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 206,
+        "Timestamp": "2026-01-26 14:31:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 207,
+        "Timestamp": "2026-01-17 23:49:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 208,
+        "Timestamp": "2026-01-20 03:46:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 209,
+        "Timestamp": "2026-01-24 16:06:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 210,
+        "Timestamp": "2026-01-06 03:23:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 211,
+        "Timestamp": "2026-01-30 21:00:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 212,
+        "Timestamp": "2026-01-20 03:33:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 213,
+        "Timestamp": "2026-01-16 16:37:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 214,
+        "Timestamp": "2026-01-05 04:46:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 215,
+        "Timestamp": "2026-01-10 09:25:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 216,
+        "Timestamp": "2026-01-14 07:35:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 217,
+        "Timestamp": "2026-01-26 22:08:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 218,
+        "Timestamp": "2026-01-23 10:43:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 219,
+        "Timestamp": "2026-01-18 03:27:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 220,
+        "Timestamp": "2026-01-09 10:27:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 221,
+        "Timestamp": "2026-01-22 01:39:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 222,
+        "Timestamp": "2026-01-10 09:58:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 223,
+        "Timestamp": "2026-01-10 00:05:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 224,
+        "Timestamp": "2026-01-03 15:38:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 225,
+        "Timestamp": "2026-01-26 17:27:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 226,
+        "Timestamp": "2026-01-05 03:51:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 227,
+        "Timestamp": "2026-01-18 17:01:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 228,
+        "Timestamp": "2026-01-07 01:28:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 229,
+        "Timestamp": "2026-01-26 03:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 230,
+        "Timestamp": "2026-01-11 09:54:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 231,
+        "Timestamp": "2026-01-10 19:37:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 232,
+        "Timestamp": "2026-01-04 07:29:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 233,
+        "Timestamp": "2026-01-02 06:56:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 234,
+        "Timestamp": "2026-01-11 08:34:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 235,
+        "Timestamp": "2026-01-04 15:36:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 236,
+        "Timestamp": "2026-01-04 05:14:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 237,
+        "Timestamp": "2026-01-29 18:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 238,
+        "Timestamp": "2026-01-13 22:49:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 239,
+        "Timestamp": "2026-01-03 15:08:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 240,
+        "Timestamp": "2026-01-23 11:31:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 241,
+        "Timestamp": "2026-01-04 12:13:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 242,
+        "Timestamp": "2026-01-19 06:11:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 243,
+        "Timestamp": "2026-01-15 21:24:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 244,
+        "Timestamp": "2026-01-23 19:36:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 245,
+        "Timestamp": "2026-01-17 03:26:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 246,
+        "Timestamp": "2026-01-28 01:25:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 247,
+        "Timestamp": "2026-01-07 18:25:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 248,
+        "Timestamp": "2026-01-06 13:59:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 249,
+        "Timestamp": "2026-01-30 15:41:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 250,
+        "Timestamp": "2026-01-13 01:49:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 251,
+        "Timestamp": "2026-01-25 20:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 252,
+        "Timestamp": "2026-01-10 15:43:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 253,
+        "Timestamp": "2026-01-15 08:34:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 254,
+        "Timestamp": "2026-01-03 19:20:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 255,
+        "Timestamp": "2026-01-28 14:11:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 256,
+        "Timestamp": "2026-01-04 09:37:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 257,
+        "Timestamp": "2026-01-10 01:42:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 258,
+        "Timestamp": "2026-01-04 21:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 259,
+        "Timestamp": "2026-01-10 10:46:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 260,
+        "Timestamp": "2026-01-09 12:15:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 261,
+        "Timestamp": "2026-01-08 06:39:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 262,
+        "Timestamp": "2026-01-07 02:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 263,
+        "Timestamp": "2026-01-10 00:23:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 264,
+        "Timestamp": "2026-01-04 20:02:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 265,
+        "Timestamp": "2026-01-04 13:20:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 266,
+        "Timestamp": "2026-01-09 13:41:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 267,
+        "Timestamp": "2026-01-05 08:51:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 268,
+        "Timestamp": "2026-01-12 04:13:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 269,
+        "Timestamp": "2026-01-04 21:36:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 270,
+        "Timestamp": "2026-01-11 22:41:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 271,
+        "Timestamp": "2026-01-28 16:49:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 272,
+        "Timestamp": "2026-01-21 22:32:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 273,
+        "Timestamp": "2026-01-14 21:45:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 274,
+        "Timestamp": "2026-01-30 21:23:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 275,
+        "Timestamp": "2026-01-29 00:11:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 276,
+        "Timestamp": "2026-01-17 06:20:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 277,
+        "Timestamp": "2026-01-04 04:53:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 278,
+        "Timestamp": "2026-01-01 21:47:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 279,
+        "Timestamp": "2026-01-15 02:33:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 280,
+        "Timestamp": "2026-01-01 00:07:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 281,
+        "Timestamp": "2026-01-23 09:33:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 282,
+        "Timestamp": "2026-01-11 02:04:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 283,
+        "Timestamp": "2026-01-28 09:24:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 284,
+        "Timestamp": "2026-01-28 15:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 285,
+        "Timestamp": "2026-01-05 23:23:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 286,
+        "Timestamp": "2026-01-03 15:16:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 287,
+        "Timestamp": "2026-01-07 03:16:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 288,
+        "Timestamp": "2026-01-26 02:07:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 289,
+        "Timestamp": "2026-01-20 03:08:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 290,
+        "Timestamp": "2026-01-07 18:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 291,
+        "Timestamp": "2026-01-18 01:41:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 292,
+        "Timestamp": "2026-01-19 15:27:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 293,
+        "Timestamp": "2026-01-01 05:04:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 294,
+        "Timestamp": "2026-01-20 11:14:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 295,
+        "Timestamp": "2026-01-03 11:00:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 296,
+        "Timestamp": "2026-01-17 00:51:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 297,
+        "Timestamp": "2026-01-11 07:25:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 298,
+        "Timestamp": "2026-01-24 20:37:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 299,
+        "Timestamp": "2026-01-15 10:42:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 300,
+        "Timestamp": "2026-01-24 09:10:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 301,
+        "Timestamp": "2026-01-22 02:58:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 302,
+        "Timestamp": "2026-01-23 20:45:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 303,
+        "Timestamp": "2026-01-03 09:30:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 304,
+        "Timestamp": "2026-01-13 23:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 305,
+        "Timestamp": "2026-01-02 20:13:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 306,
+        "Timestamp": "2026-01-19 08:10:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 307,
+        "Timestamp": "2026-01-15 04:56:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 308,
+        "Timestamp": "2026-01-30 00:59:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 309,
+        "Timestamp": "2026-01-02 15:56:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 310,
+        "Timestamp": "2026-01-23 23:51:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 311,
+        "Timestamp": "2026-01-29 01:39:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 312,
+        "Timestamp": "2026-01-23 09:48:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 313,
+        "Timestamp": "2026-01-27 09:52:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 314,
+        "Timestamp": "2026-01-10 06:08:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 315,
+        "Timestamp": "2026-01-02 07:39:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 316,
+        "Timestamp": "2026-01-26 02:31:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 317,
+        "Timestamp": "2026-01-18 14:31:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 318,
+        "Timestamp": "2026-01-14 20:26:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 319,
+        "Timestamp": "2026-01-03 01:44:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 320,
+        "Timestamp": "2026-01-25 02:09:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 321,
+        "Timestamp": "2026-01-13 23:25:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 322,
+        "Timestamp": "2026-01-23 02:13:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 323,
+        "Timestamp": "2026-01-23 05:05:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 324,
+        "Timestamp": "2026-01-29 17:05:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 325,
+        "Timestamp": "2026-01-14 22:44:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 326,
+        "Timestamp": "2026-01-27 06:15:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 327,
+        "Timestamp": "2026-01-09 13:45:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 328,
+        "Timestamp": "2026-01-21 00:05:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 329,
+        "Timestamp": "2026-01-03 08:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 330,
+        "Timestamp": "2026-01-11 22:06:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 331,
+        "Timestamp": "2026-01-29 14:14:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 332,
+        "Timestamp": "2026-01-11 09:43:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 333,
+        "Timestamp": "2026-01-26 14:20:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 334,
+        "Timestamp": "2026-01-20 11:52:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 335,
+        "Timestamp": "2026-01-29 19:42:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 336,
+        "Timestamp": "2026-01-03 02:25:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 337,
+        "Timestamp": "2026-01-15 04:57:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 338,
+        "Timestamp": "2026-01-01 04:52:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 339,
+        "Timestamp": "2026-01-27 13:37:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 340,
+        "Timestamp": "2026-01-30 13:09:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 341,
+        "Timestamp": "2026-01-09 21:32:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 342,
+        "Timestamp": "2026-01-29 02:13:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 343,
+        "Timestamp": "2026-01-29 22:10:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 344,
+        "Timestamp": "2026-01-04 13:36:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 345,
+        "Timestamp": "2026-01-14 13:04:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 346,
+        "Timestamp": "2026-01-15 02:01:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 347,
+        "Timestamp": "2026-01-10 23:06:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 348,
+        "Timestamp": "2026-01-02 06:58:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 349,
+        "Timestamp": "2026-01-03 12:23:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 350,
+        "Timestamp": "2026-01-02 22:38:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 351,
+        "Timestamp": "2026-01-13 21:13:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 352,
+        "Timestamp": "2026-01-16 08:06:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 353,
+        "Timestamp": "2026-01-11 09:08:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 354,
+        "Timestamp": "2026-01-05 17:53:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 355,
+        "Timestamp": "2026-01-28 16:44:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 356,
+        "Timestamp": "2026-01-11 15:00:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 357,
+        "Timestamp": "2026-01-26 12:59:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 358,
+        "Timestamp": "2026-01-28 04:39:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 359,
+        "Timestamp": "2026-01-02 17:44:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 360,
+        "Timestamp": "2026-01-18 13:56:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 361,
+        "Timestamp": "2026-01-23 15:54:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 362,
+        "Timestamp": "2026-01-19 19:25:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 363,
+        "Timestamp": "2026-01-23 13:21:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 364,
+        "Timestamp": "2026-01-29 08:17:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 365,
+        "Timestamp": "2026-01-24 14:57:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 366,
+        "Timestamp": "2026-01-26 16:01:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 367,
+        "Timestamp": "2026-01-20 17:41:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 368,
+        "Timestamp": "2026-01-17 05:40:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 369,
+        "Timestamp": "2026-01-11 17:34:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 370,
+        "Timestamp": "2026-01-04 08:18:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 371,
+        "Timestamp": "2026-01-01 13:46:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 372,
+        "Timestamp": "2026-01-21 16:58:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 373,
+        "Timestamp": "2026-01-08 18:23:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 374,
+        "Timestamp": "2026-01-25 21:35:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 375,
+        "Timestamp": "2026-01-24 19:41:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 376,
+        "Timestamp": "2026-01-17 10:15:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 377,
+        "Timestamp": "2026-01-03 19:53:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 378,
+        "Timestamp": "2026-01-25 05:24:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 379,
+        "Timestamp": "2026-01-26 16:02:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 380,
+        "Timestamp": "2026-01-09 14:04:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 381,
+        "Timestamp": "2026-01-27 23:07:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 382,
+        "Timestamp": "2026-01-05 08:51:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 383,
+        "Timestamp": "2026-01-05 03:29:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 384,
+        "Timestamp": "2026-01-03 04:30:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 385,
+        "Timestamp": "2026-01-30 03:46:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 386,
+        "Timestamp": "2026-01-06 23:10:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 387,
+        "Timestamp": "2026-01-01 17:57:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 388,
+        "Timestamp": "2026-01-04 09:02:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 389,
+        "Timestamp": "2026-01-06 09:56:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 390,
+        "Timestamp": "2026-01-16 11:56:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 391,
+        "Timestamp": "2026-01-10 03:06:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 392,
+        "Timestamp": "2026-01-04 01:26:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 393,
+        "Timestamp": "2026-01-20 17:15:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 394,
+        "Timestamp": "2026-01-15 11:53:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 395,
+        "Timestamp": "2026-01-06 05:36:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 396,
+        "Timestamp": "2026-01-17 07:57:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 397,
+        "Timestamp": "2026-01-15 19:10:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 398,
+        "Timestamp": "2026-01-10 08:48:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 399,
+        "Timestamp": "2026-01-21 05:46:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 400,
+        "Timestamp": "2026-01-09 02:01:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 401,
+        "Timestamp": "2026-01-20 04:07:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 402,
+        "Timestamp": "2026-01-19 14:47:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 403,
+        "Timestamp": "2026-01-29 23:09:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 404,
+        "Timestamp": "2026-01-02 07:36:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 405,
+        "Timestamp": "2026-01-29 08:28:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 406,
+        "Timestamp": "2026-01-03 05:50:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 407,
+        "Timestamp": "2026-01-04 01:10:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 408,
+        "Timestamp": "2026-01-29 22:03:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 409,
+        "Timestamp": "2026-01-13 16:08:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 410,
+        "Timestamp": "2026-01-18 17:54:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 411,
+        "Timestamp": "2026-01-01 22:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 412,
+        "Timestamp": "2026-01-07 19:14:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 413,
+        "Timestamp": "2026-01-28 17:02:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 414,
+        "Timestamp": "2026-01-02 15:32:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 415,
+        "Timestamp": "2026-01-04 23:04:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 416,
+        "Timestamp": "2026-01-04 19:37:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 417,
+        "Timestamp": "2026-01-17 05:01:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 418,
+        "Timestamp": "2026-01-29 18:52:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 419,
+        "Timestamp": "2026-01-18 05:09:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 420,
+        "Timestamp": "2026-01-22 01:45:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 421,
+        "Timestamp": "2026-01-28 11:40:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 422,
+        "Timestamp": "2026-01-02 20:07:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 423,
+        "Timestamp": "2026-01-30 20:21:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 424,
+        "Timestamp": "2026-01-07 12:57:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 425,
+        "Timestamp": "2026-01-19 01:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 426,
+        "Timestamp": "2026-01-29 01:46:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 427,
+        "Timestamp": "2026-01-07 13:52:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 428,
+        "Timestamp": "2026-01-22 05:48:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 429,
+        "Timestamp": "2026-01-05 21:46:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 430,
+        "Timestamp": "2026-01-29 19:11:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 431,
+        "Timestamp": "2026-01-02 06:42:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 432,
+        "Timestamp": "2026-01-12 04:16:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 433,
+        "Timestamp": "2026-01-06 07:23:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 434,
+        "Timestamp": "2026-01-25 21:16:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 435,
+        "Timestamp": "2026-01-01 13:26:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 436,
+        "Timestamp": "2026-01-16 19:05:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 437,
+        "Timestamp": "2026-01-19 11:47:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 438,
+        "Timestamp": "2026-01-03 01:02:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 439,
+        "Timestamp": "2026-01-27 20:47:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 440,
+        "Timestamp": "2026-01-07 20:44:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 441,
+        "Timestamp": "2026-01-17 17:02:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 442,
+        "Timestamp": "2026-01-09 06:29:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 443,
+        "Timestamp": "2026-01-06 02:24:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 444,
+        "Timestamp": "2026-01-11 03:47:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 445,
+        "Timestamp": "2026-01-12 13:06:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 446,
+        "Timestamp": "2026-01-05 23:42:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 447,
+        "Timestamp": "2026-01-26 07:11:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 448,
+        "Timestamp": "2026-01-26 22:45:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 449,
+        "Timestamp": "2026-01-05 20:06:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 450,
+        "Timestamp": "2026-01-16 07:31:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 451,
+        "Timestamp": "2026-01-27 08:32:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 452,
+        "Timestamp": "2026-01-20 17:08:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 453,
+        "Timestamp": "2026-01-05 10:01:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 454,
+        "Timestamp": "2026-01-12 07:33:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 455,
+        "Timestamp": "2026-01-13 15:52:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 456,
+        "Timestamp": "2026-01-26 07:41:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 457,
+        "Timestamp": "2026-01-19 18:59:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 458,
+        "Timestamp": "2026-01-26 10:37:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 459,
+        "Timestamp": "2026-01-19 07:33:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 460,
+        "Timestamp": "2026-01-09 04:42:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 461,
+        "Timestamp": "2026-01-27 13:08:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 462,
+        "Timestamp": "2026-01-12 11:24:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 463,
+        "Timestamp": "2026-01-07 03:03:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 464,
+        "Timestamp": "2026-01-07 02:15:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 465,
+        "Timestamp": "2026-01-13 18:37:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 466,
+        "Timestamp": "2026-01-13 18:23:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 467,
+        "Timestamp": "2026-01-14 11:15:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 468,
+        "Timestamp": "2026-01-27 22:00:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 469,
+        "Timestamp": "2026-01-24 13:47:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 470,
+        "Timestamp": "2026-01-07 00:39:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 471,
+        "Timestamp": "2026-01-05 22:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 472,
+        "Timestamp": "2026-01-26 23:42:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 473,
+        "Timestamp": "2026-01-14 20:31:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 474,
+        "Timestamp": "2026-01-09 12:58:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 475,
+        "Timestamp": "2026-01-13 13:44:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 476,
+        "Timestamp": "2026-01-14 11:58:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 477,
+        "Timestamp": "2026-01-05 20:44:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 478,
+        "Timestamp": "2026-01-26 10:39:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 479,
+        "Timestamp": "2026-01-26 05:54:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 480,
+        "Timestamp": "2026-01-23 06:00:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 481,
+        "Timestamp": "2026-01-07 11:53:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 482,
+        "Timestamp": "2026-01-09 12:15:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 483,
+        "Timestamp": "2026-01-18 14:48:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 484,
+        "Timestamp": "2026-01-11 19:50:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 485,
+        "Timestamp": "2026-01-25 13:39:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 486,
+        "Timestamp": "2026-01-04 17:58:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 487,
+        "Timestamp": "2026-01-07 08:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 488,
+        "Timestamp": "2026-01-20 22:20:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 489,
+        "Timestamp": "2026-01-01 03:43:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 490,
+        "Timestamp": "2026-01-18 01:07:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 491,
+        "Timestamp": "2026-01-25 14:56:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 492,
+        "Timestamp": "2026-01-24 05:34:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 493,
+        "Timestamp": "2026-01-13 20:37:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 494,
+        "Timestamp": "2026-01-30 09:44:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 495,
+        "Timestamp": "2026-01-21 23:02:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 496,
+        "Timestamp": "2026-01-10 03:03:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 497,
+        "Timestamp": "2026-01-25 20:10:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 498,
+        "Timestamp": "2026-01-28 07:52:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 499,
+        "Timestamp": "2026-01-19 05:46:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 500,
+        "Timestamp": "2026-01-09 03:00:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 501,
+        "Timestamp": "2026-01-14 02:23:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 502,
+        "Timestamp": "2026-01-08 19:37:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 503,
+        "Timestamp": "2026-01-23 20:11:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 504,
+        "Timestamp": "2026-01-13 15:50:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 505,
+        "Timestamp": "2026-01-09 16:03:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 506,
+        "Timestamp": "2026-01-27 08:16:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 507,
+        "Timestamp": "2026-01-06 23:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 508,
+        "Timestamp": "2026-01-04 16:34:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 509,
+        "Timestamp": "2026-01-12 05:41:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 510,
+        "Timestamp": "2026-01-12 22:14:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 511,
+        "Timestamp": "2026-01-10 18:44:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 512,
+        "Timestamp": "2026-01-21 06:09:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 513,
+        "Timestamp": "2026-01-28 19:56:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 514,
+        "Timestamp": "2026-01-14 04:41:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 515,
+        "Timestamp": "2026-01-17 09:57:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 516,
+        "Timestamp": "2026-01-03 18:07:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 517,
+        "Timestamp": "2026-01-09 21:31:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 518,
+        "Timestamp": "2026-01-05 16:22:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 519,
+        "Timestamp": "2026-01-16 02:00:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 520,
+        "Timestamp": "2026-01-08 01:49:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 521,
+        "Timestamp": "2026-01-29 00:30:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 522,
+        "Timestamp": "2026-01-11 12:14:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 523,
+        "Timestamp": "2026-01-12 03:20:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 524,
+        "Timestamp": "2026-01-25 23:49:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 525,
+        "Timestamp": "2026-01-30 09:50:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 526,
+        "Timestamp": "2026-01-23 15:26:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 527,
+        "Timestamp": "2026-01-20 04:18:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 528,
+        "Timestamp": "2026-01-16 04:46:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 529,
+        "Timestamp": "2026-01-18 04:11:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 530,
+        "Timestamp": "2026-01-24 08:21:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 531,
+        "Timestamp": "2026-01-25 05:12:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 532,
+        "Timestamp": "2026-01-06 22:26:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 533,
+        "Timestamp": "2026-01-15 17:12:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 534,
+        "Timestamp": "2026-01-04 07:49:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 535,
+        "Timestamp": "2026-01-25 16:34:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 536,
+        "Timestamp": "2026-01-30 13:19:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 537,
+        "Timestamp": "2026-01-22 08:17:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 538,
+        "Timestamp": "2026-01-04 06:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 539,
+        "Timestamp": "2026-01-25 13:59:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 540,
+        "Timestamp": "2026-01-18 01:14:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 541,
+        "Timestamp": "2026-01-20 07:40:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 542,
+        "Timestamp": "2026-01-13 07:19:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 543,
+        "Timestamp": "2026-01-19 01:00:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 544,
+        "Timestamp": "2026-01-21 12:40:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 545,
+        "Timestamp": "2026-01-03 09:09:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 546,
+        "Timestamp": "2026-01-13 03:08:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 547,
+        "Timestamp": "2026-01-18 00:34:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 548,
+        "Timestamp": "2026-01-18 21:23:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 549,
+        "Timestamp": "2026-01-24 00:41:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 550,
+        "Timestamp": "2026-01-19 08:27:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 551,
+        "Timestamp": "2026-01-14 10:54:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 552,
+        "Timestamp": "2026-01-21 20:50:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 553,
+        "Timestamp": "2026-01-15 05:30:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 554,
+        "Timestamp": "2026-01-01 05:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 555,
+        "Timestamp": "2026-01-19 23:11:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 556,
+        "Timestamp": "2026-01-08 07:44:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 557,
+        "Timestamp": "2026-01-24 07:12:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 558,
+        "Timestamp": "2026-01-30 11:38:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 559,
+        "Timestamp": "2026-01-09 11:54:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 560,
+        "Timestamp": "2026-01-02 21:51:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 561,
+        "Timestamp": "2026-01-26 10:07:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 562,
+        "Timestamp": "2026-01-30 06:30:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 563,
+        "Timestamp": "2026-01-17 10:56:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 564,
+        "Timestamp": "2026-01-14 02:25:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 565,
+        "Timestamp": "2026-01-12 14:10:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 566,
+        "Timestamp": "2026-01-09 10:46:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 567,
+        "Timestamp": "2026-01-03 11:16:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 568,
+        "Timestamp": "2026-01-25 05:46:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 569,
+        "Timestamp": "2026-01-07 22:09:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 570,
+        "Timestamp": "2026-01-26 00:24:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 571,
+        "Timestamp": "2026-01-05 14:10:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 572,
+        "Timestamp": "2026-01-04 05:50:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 573,
+        "Timestamp": "2026-01-27 16:33:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 574,
+        "Timestamp": "2026-01-20 00:55:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 575,
+        "Timestamp": "2026-01-28 23:52:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 576,
+        "Timestamp": "2026-01-30 21:39:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 577,
+        "Timestamp": "2026-01-22 06:35:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 578,
+        "Timestamp": "2026-01-02 09:36:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 579,
+        "Timestamp": "2026-01-29 02:23:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 580,
+        "Timestamp": "2026-01-03 20:35:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 581,
+        "Timestamp": "2026-01-19 00:27:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 582,
+        "Timestamp": "2026-01-03 05:31:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 583,
+        "Timestamp": "2026-01-20 01:53:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 584,
+        "Timestamp": "2026-01-10 02:56:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 585,
+        "Timestamp": "2026-01-07 13:42:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 586,
+        "Timestamp": "2026-01-24 07:16:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 587,
+        "Timestamp": "2026-01-16 00:47:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 588,
+        "Timestamp": "2026-01-19 08:08:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 589,
+        "Timestamp": "2026-01-08 16:39:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 590,
+        "Timestamp": "2026-01-16 09:59:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 591,
+        "Timestamp": "2026-01-07 23:16:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 592,
+        "Timestamp": "2026-01-07 12:25:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 593,
+        "Timestamp": "2026-01-29 22:59:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 594,
+        "Timestamp": "2026-01-19 05:39:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 595,
+        "Timestamp": "2026-01-24 18:43:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 596,
+        "Timestamp": "2026-01-25 15:15:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 597,
+        "Timestamp": "2026-01-25 13:36:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 598,
+        "Timestamp": "2026-01-10 01:05:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 599,
+        "Timestamp": "2026-01-23 11:08:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 600,
+        "Timestamp": "2026-01-24 02:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 601,
+        "Timestamp": "2026-01-21 01:56:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 602,
+        "Timestamp": "2026-01-30 16:14:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 603,
+        "Timestamp": "2026-01-24 14:32:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 604,
+        "Timestamp": "2026-01-21 15:54:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 605,
+        "Timestamp": "2026-01-01 23:50:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 606,
+        "Timestamp": "2026-01-15 04:05:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 607,
+        "Timestamp": "2026-01-23 14:39:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 608,
+        "Timestamp": "2026-01-02 20:20:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 609,
+        "Timestamp": "2026-01-03 05:09:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 610,
+        "Timestamp": "2026-01-10 12:18:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 611,
+        "Timestamp": "2026-01-22 04:16:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 612,
+        "Timestamp": "2026-01-23 17:23:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 613,
+        "Timestamp": "2026-01-02 05:34:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 614,
+        "Timestamp": "2026-01-07 22:24:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 615,
+        "Timestamp": "2026-01-30 05:57:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 616,
+        "Timestamp": "2026-01-20 14:56:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 617,
+        "Timestamp": "2026-01-24 01:06:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 618,
+        "Timestamp": "2026-01-11 11:07:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 619,
+        "Timestamp": "2026-01-30 05:07:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 620,
+        "Timestamp": "2026-01-20 01:39:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 621,
+        "Timestamp": "2026-01-14 20:09:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 622,
+        "Timestamp": "2026-01-07 01:44:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 623,
+        "Timestamp": "2026-01-03 02:30:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 624,
+        "Timestamp": "2026-01-16 06:21:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 625,
+        "Timestamp": "2026-01-30 20:20:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 626,
+        "Timestamp": "2026-01-17 12:19:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 627,
+        "Timestamp": "2026-01-03 10:24:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 628,
+        "Timestamp": "2026-01-18 13:37:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 629,
+        "Timestamp": "2026-01-19 17:57:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 630,
+        "Timestamp": "2026-01-22 19:24:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 631,
+        "Timestamp": "2026-01-25 08:23:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 632,
+        "Timestamp": "2026-01-29 00:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 633,
+        "Timestamp": "2026-01-03 19:42:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 634,
+        "Timestamp": "2026-01-19 10:18:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 635,
+        "Timestamp": "2026-01-18 05:11:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 636,
+        "Timestamp": "2026-01-30 17:53:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 637,
+        "Timestamp": "2026-01-19 09:11:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 638,
+        "Timestamp": "2026-01-17 03:10:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 639,
+        "Timestamp": "2026-01-04 00:55:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 640,
+        "Timestamp": "2026-01-04 00:01:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 641,
+        "Timestamp": "2026-01-06 01:10:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 642,
+        "Timestamp": "2026-01-17 09:14:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 643,
+        "Timestamp": "2026-01-10 19:55:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 644,
+        "Timestamp": "2026-01-10 05:03:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 645,
+        "Timestamp": "2026-01-01 16:47:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 646,
+        "Timestamp": "2026-01-17 13:07:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 647,
+        "Timestamp": "2026-01-22 16:12:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 648,
+        "Timestamp": "2026-01-15 08:34:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 649,
+        "Timestamp": "2026-01-03 09:10:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 650,
+        "Timestamp": "2026-01-07 05:24:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 651,
+        "Timestamp": "2026-01-24 12:25:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 652,
+        "Timestamp": "2026-01-09 02:48:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 653,
+        "Timestamp": "2026-01-21 05:20:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 654,
+        "Timestamp": "2026-01-07 23:13:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 655,
+        "Timestamp": "2026-01-11 09:10:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 656,
+        "Timestamp": "2026-01-25 22:01:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 657,
+        "Timestamp": "2026-01-18 14:12:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 658,
+        "Timestamp": "2026-01-08 02:11:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 659,
+        "Timestamp": "2026-01-02 19:12:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 660,
+        "Timestamp": "2026-01-27 11:56:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 661,
+        "Timestamp": "2026-01-04 02:53:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 662,
+        "Timestamp": "2026-01-08 08:30:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 663,
+        "Timestamp": "2026-01-30 00:22:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 664,
+        "Timestamp": "2026-01-06 20:29:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 665,
+        "Timestamp": "2026-01-14 04:34:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 666,
+        "Timestamp": "2026-01-13 07:56:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 667,
+        "Timestamp": "2026-01-21 01:36:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 668,
+        "Timestamp": "2026-01-04 16:50:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 669,
+        "Timestamp": "2026-01-01 13:03:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 670,
+        "Timestamp": "2026-01-28 04:15:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 671,
+        "Timestamp": "2026-01-16 21:05:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 672,
+        "Timestamp": "2026-01-25 06:38:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 673,
+        "Timestamp": "2026-01-19 12:09:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 674,
+        "Timestamp": "2026-01-13 18:58:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 675,
+        "Timestamp": "2026-01-17 10:43:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 676,
+        "Timestamp": "2026-01-02 17:11:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 677,
+        "Timestamp": "2026-01-01 12:18:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 678,
+        "Timestamp": "2026-01-02 22:52:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 679,
+        "Timestamp": "2026-01-08 10:55:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 680,
+        "Timestamp": "2026-01-28 12:20:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 681,
+        "Timestamp": "2026-01-20 16:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 682,
+        "Timestamp": "2026-01-19 06:11:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 683,
+        "Timestamp": "2026-01-05 16:05:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 684,
+        "Timestamp": "2026-01-03 13:33:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 685,
+        "Timestamp": "2026-01-16 10:36:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 686,
+        "Timestamp": "2026-01-24 21:05:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 687,
+        "Timestamp": "2026-01-08 22:23:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 688,
+        "Timestamp": "2026-01-16 01:21:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 689,
+        "Timestamp": "2026-01-13 11:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 690,
+        "Timestamp": "2026-01-04 20:47:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 691,
+        "Timestamp": "2026-01-27 12:40:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 692,
+        "Timestamp": "2026-01-12 04:22:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 693,
+        "Timestamp": "2026-01-12 23:53:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 694,
+        "Timestamp": "2026-01-15 21:47:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 695,
+        "Timestamp": "2026-01-11 11:52:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 696,
+        "Timestamp": "2026-01-24 12:34:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 697,
+        "Timestamp": "2026-01-26 12:11:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 698,
+        "Timestamp": "2026-01-27 05:21:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 699,
+        "Timestamp": "2026-01-02 18:08:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 700,
+        "Timestamp": "2026-01-19 09:53:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 701,
+        "Timestamp": "2026-01-12 10:31:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 702,
+        "Timestamp": "2026-01-17 13:21:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 703,
+        "Timestamp": "2026-01-23 08:08:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 704,
+        "Timestamp": "2026-01-30 07:52:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 705,
+        "Timestamp": "2026-01-26 09:14:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 706,
+        "Timestamp": "2026-01-14 06:12:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 707,
+        "Timestamp": "2026-01-26 16:05:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 708,
+        "Timestamp": "2026-01-15 16:48:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 709,
+        "Timestamp": "2026-01-08 18:27:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 710,
+        "Timestamp": "2026-01-05 02:43:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 711,
+        "Timestamp": "2026-01-16 22:57:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 712,
+        "Timestamp": "2026-01-28 02:40:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 713,
+        "Timestamp": "2026-01-07 04:14:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 714,
+        "Timestamp": "2026-01-27 14:39:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 715,
+        "Timestamp": "2026-01-17 23:04:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 716,
+        "Timestamp": "2026-01-06 14:22:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 717,
+        "Timestamp": "2026-01-05 10:17:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 718,
+        "Timestamp": "2026-01-07 23:34:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 719,
+        "Timestamp": "2026-01-26 22:50:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 720,
+        "Timestamp": "2026-01-23 08:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 721,
+        "Timestamp": "2026-01-21 23:27:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 722,
+        "Timestamp": "2026-01-19 11:16:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 723,
+        "Timestamp": "2026-01-29 08:21:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 724,
+        "Timestamp": "2026-01-10 04:05:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 725,
+        "Timestamp": "2026-01-03 03:39:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 726,
+        "Timestamp": "2026-01-22 18:25:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 727,
+        "Timestamp": "2026-01-29 11:16:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 728,
+        "Timestamp": "2026-01-19 02:42:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 729,
+        "Timestamp": "2026-01-11 13:43:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 730,
+        "Timestamp": "2026-01-16 22:58:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 731,
+        "Timestamp": "2026-01-24 02:02:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 732,
+        "Timestamp": "2026-01-11 20:57:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 733,
+        "Timestamp": "2026-01-23 23:09:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 734,
+        "Timestamp": "2026-01-23 15:11:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 735,
+        "Timestamp": "2026-01-26 18:12:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 736,
+        "Timestamp": "2026-01-08 11:11:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 737,
+        "Timestamp": "2026-01-12 13:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 738,
+        "Timestamp": "2026-01-03 06:03:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 739,
+        "Timestamp": "2026-01-16 12:55:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 740,
+        "Timestamp": "2026-01-26 04:37:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 741,
+        "Timestamp": "2026-01-20 00:21:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 742,
+        "Timestamp": "2026-01-24 05:18:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 743,
+        "Timestamp": "2026-01-10 15:57:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 744,
+        "Timestamp": "2026-01-22 18:26:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 745,
+        "Timestamp": "2026-01-14 04:06:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 746,
+        "Timestamp": "2026-01-22 21:43:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 747,
+        "Timestamp": "2026-01-28 02:02:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 748,
+        "Timestamp": "2026-01-11 12:56:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 749,
+        "Timestamp": "2026-01-27 15:19:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 750,
+        "Timestamp": "2026-01-09 15:02:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 751,
+        "Timestamp": "2026-01-20 08:41:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 752,
+        "Timestamp": "2026-01-24 10:09:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 753,
+        "Timestamp": "2026-01-14 16:29:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 754,
+        "Timestamp": "2026-01-24 03:40:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 755,
+        "Timestamp": "2026-01-05 05:40:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 756,
+        "Timestamp": "2026-01-25 08:25:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 757,
+        "Timestamp": "2026-01-25 10:30:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 758,
+        "Timestamp": "2026-01-24 04:19:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 759,
+        "Timestamp": "2026-01-21 15:16:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 760,
+        "Timestamp": "2026-01-19 14:02:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 761,
+        "Timestamp": "2026-01-29 20:45:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 762,
+        "Timestamp": "2026-01-04 23:22:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 763,
+        "Timestamp": "2026-01-13 15:34:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 764,
+        "Timestamp": "2026-01-03 05:55:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 765,
+        "Timestamp": "2026-01-16 00:29:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 766,
+        "Timestamp": "2026-01-08 12:58:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 767,
+        "Timestamp": "2026-01-24 02:07:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 768,
+        "Timestamp": "2026-01-15 14:36:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 769,
+        "Timestamp": "2026-01-30 04:05:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 770,
+        "Timestamp": "2026-01-23 05:21:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 771,
+        "Timestamp": "2026-01-18 19:52:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 772,
+        "Timestamp": "2026-01-11 01:19:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 773,
+        "Timestamp": "2026-01-17 00:51:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 774,
+        "Timestamp": "2026-01-17 02:57:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 775,
+        "Timestamp": "2026-01-22 09:56:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 776,
+        "Timestamp": "2026-01-25 11:05:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 777,
+        "Timestamp": "2026-01-01 03:06:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 778,
+        "Timestamp": "2026-01-01 19:52:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 779,
+        "Timestamp": "2026-01-01 08:12:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 780,
+        "Timestamp": "2026-01-17 11:36:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 781,
+        "Timestamp": "2026-01-13 01:07:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 782,
+        "Timestamp": "2026-01-10 03:45:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 783,
+        "Timestamp": "2026-01-14 00:53:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 784,
+        "Timestamp": "2026-01-02 03:04:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 785,
+        "Timestamp": "2026-01-11 22:41:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 786,
+        "Timestamp": "2026-01-03 16:58:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 787,
+        "Timestamp": "2026-01-05 23:08:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 788,
+        "Timestamp": "2026-01-08 13:06:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 789,
+        "Timestamp": "2026-01-09 06:06:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 790,
+        "Timestamp": "2026-01-13 21:43:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 791,
+        "Timestamp": "2026-01-10 10:26:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 792,
+        "Timestamp": "2026-01-16 03:28:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 793,
+        "Timestamp": "2026-01-15 20:04:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 794,
+        "Timestamp": "2026-01-23 14:03:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 795,
+        "Timestamp": "2026-01-05 22:03:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 796,
+        "Timestamp": "2026-01-10 04:27:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 797,
+        "Timestamp": "2026-01-22 00:56:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 798,
+        "Timestamp": "2026-01-26 07:49:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 799,
+        "Timestamp": "2026-01-05 16:10:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 800,
+        "Timestamp": "2026-01-19 21:12:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 801,
+        "Timestamp": "2026-01-20 21:42:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 802,
+        "Timestamp": "2026-01-18 11:56:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 803,
+        "Timestamp": "2026-01-26 06:42:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 804,
+        "Timestamp": "2026-01-05 03:43:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 805,
+        "Timestamp": "2026-01-26 17:33:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 806,
+        "Timestamp": "2026-01-29 16:09:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 807,
+        "Timestamp": "2026-01-27 01:08:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 808,
+        "Timestamp": "2026-01-25 13:14:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 809,
+        "Timestamp": "2026-01-30 12:47:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 810,
+        "Timestamp": "2026-01-30 22:43:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 811,
+        "Timestamp": "2026-01-25 08:15:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 812,
+        "Timestamp": "2026-01-20 09:11:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 813,
+        "Timestamp": "2026-01-10 01:30:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 814,
+        "Timestamp": "2026-01-29 01:09:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 815,
+        "Timestamp": "2026-01-11 01:35:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 816,
+        "Timestamp": "2026-01-12 23:25:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 817,
+        "Timestamp": "2026-01-03 10:49:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 818,
+        "Timestamp": "2026-01-04 06:19:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 819,
+        "Timestamp": "2026-01-12 08:18:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 820,
+        "Timestamp": "2026-01-25 17:50:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 821,
+        "Timestamp": "2026-01-04 01:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 822,
+        "Timestamp": "2026-01-27 06:46:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 823,
+        "Timestamp": "2026-01-21 06:28:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 824,
+        "Timestamp": "2026-01-20 09:36:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 825,
+        "Timestamp": "2026-01-21 10:33:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 826,
+        "Timestamp": "2026-01-11 05:50:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 827,
+        "Timestamp": "2026-01-22 10:42:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 828,
+        "Timestamp": "2026-01-21 12:51:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 829,
+        "Timestamp": "2026-01-28 21:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 830,
+        "Timestamp": "2026-01-04 15:52:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 831,
+        "Timestamp": "2026-01-23 13:07:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 832,
+        "Timestamp": "2026-01-22 13:55:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 833,
+        "Timestamp": "2026-01-08 11:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 834,
+        "Timestamp": "2026-01-08 05:42:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 835,
+        "Timestamp": "2026-01-22 16:15:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 836,
+        "Timestamp": "2026-01-19 10:23:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 837,
+        "Timestamp": "2026-01-01 00:28:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 838,
+        "Timestamp": "2026-01-26 20:52:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 839,
+        "Timestamp": "2026-01-25 23:12:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 840,
+        "Timestamp": "2026-01-30 13:50:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 841,
+        "Timestamp": "2026-01-26 00:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 842,
+        "Timestamp": "2026-01-03 19:48:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 843,
+        "Timestamp": "2026-01-09 16:00:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 844,
+        "Timestamp": "2026-01-10 14:19:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 845,
+        "Timestamp": "2026-01-15 22:02:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 846,
+        "Timestamp": "2026-01-05 18:22:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 847,
+        "Timestamp": "2026-01-22 02:59:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 848,
+        "Timestamp": "2026-01-26 08:37:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 849,
+        "Timestamp": "2026-01-15 17:48:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 850,
+        "Timestamp": "2026-01-27 05:36:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 851,
+        "Timestamp": "2026-01-29 17:33:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 852,
+        "Timestamp": "2026-01-16 00:19:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 853,
+        "Timestamp": "2026-01-30 11:22:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 854,
+        "Timestamp": "2026-01-27 14:01:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 855,
+        "Timestamp": "2026-01-27 00:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 856,
+        "Timestamp": "2026-01-13 12:37:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 857,
+        "Timestamp": "2026-01-22 15:08:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 858,
+        "Timestamp": "2026-01-07 01:04:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 859,
+        "Timestamp": "2026-01-27 11:46:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 860,
+        "Timestamp": "2026-01-14 15:00:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 861,
+        "Timestamp": "2026-01-18 08:55:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 862,
+        "Timestamp": "2026-01-26 01:29:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 863,
+        "Timestamp": "2026-01-26 10:40:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 864,
+        "Timestamp": "2026-01-03 10:14:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 865,
+        "Timestamp": "2026-01-21 07:45:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 866,
+        "Timestamp": "2026-01-24 01:08:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 867,
+        "Timestamp": "2026-01-01 14:53:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 868,
+        "Timestamp": "2026-01-14 03:17:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 869,
+        "Timestamp": "2026-01-15 01:17:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 870,
+        "Timestamp": "2026-01-18 01:54:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 871,
+        "Timestamp": "2026-01-25 01:13:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 872,
+        "Timestamp": "2026-01-08 05:46:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 873,
+        "Timestamp": "2026-01-06 00:07:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 874,
+        "Timestamp": "2026-01-23 22:59:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 875,
+        "Timestamp": "2026-01-11 05:22:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 876,
+        "Timestamp": "2026-01-07 03:32:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 877,
+        "Timestamp": "2026-01-11 08:45:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 878,
+        "Timestamp": "2026-01-16 01:10:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 879,
+        "Timestamp": "2026-01-08 21:00:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 880,
+        "Timestamp": "2026-01-25 15:20:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 881,
+        "Timestamp": "2026-01-22 09:32:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 882,
+        "Timestamp": "2026-01-10 02:22:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 883,
+        "Timestamp": "2026-01-07 23:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 884,
+        "Timestamp": "2026-01-18 22:09:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 885,
+        "Timestamp": "2026-01-23 19:35:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 886,
+        "Timestamp": "2026-01-27 17:57:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 887,
+        "Timestamp": "2026-01-03 06:57:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 888,
+        "Timestamp": "2026-01-27 00:50:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 889,
+        "Timestamp": "2026-01-12 01:15:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 890,
+        "Timestamp": "2026-01-21 18:56:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 891,
+        "Timestamp": "2026-01-17 20:21:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 892,
+        "Timestamp": "2026-01-21 16:25:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 893,
+        "Timestamp": "2026-01-20 13:45:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 894,
+        "Timestamp": "2026-01-06 05:31:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 895,
+        "Timestamp": "2026-01-02 15:57:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 896,
+        "Timestamp": "2026-01-22 20:26:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 897,
+        "Timestamp": "2026-01-22 10:28:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 898,
+        "Timestamp": "2026-01-06 16:01:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 899,
+        "Timestamp": "2026-01-12 02:29:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 900,
+        "Timestamp": "2026-01-04 20:12:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 901,
+        "Timestamp": "2026-01-07 06:16:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 902,
+        "Timestamp": "2026-01-19 14:53:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 903,
+        "Timestamp": "2026-01-19 19:47:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 904,
+        "Timestamp": "2026-01-23 22:33:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 905,
+        "Timestamp": "2026-01-07 17:35:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 906,
+        "Timestamp": "2026-01-02 18:34:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 907,
+        "Timestamp": "2026-01-23 11:50:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 908,
+        "Timestamp": "2026-01-25 08:18:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 909,
+        "Timestamp": "2026-01-15 14:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 910,
+        "Timestamp": "2026-01-30 16:20:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 911,
+        "Timestamp": "2026-01-04 13:45:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 912,
+        "Timestamp": "2026-01-20 08:11:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 913,
+        "Timestamp": "2026-01-03 03:30:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 914,
+        "Timestamp": "2026-01-21 06:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 915,
+        "Timestamp": "2026-01-06 10:57:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 916,
+        "Timestamp": "2026-01-07 12:36:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 917,
+        "Timestamp": "2026-01-27 20:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 918,
+        "Timestamp": "2026-01-09 22:26:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 919,
+        "Timestamp": "2026-01-26 07:38:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 920,
+        "Timestamp": "2026-01-06 05:06:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 921,
+        "Timestamp": "2026-01-05 15:23:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 922,
+        "Timestamp": "2026-01-05 10:36:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 923,
+        "Timestamp": "2026-01-15 04:10:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 924,
+        "Timestamp": "2026-01-20 11:25:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 925,
+        "Timestamp": "2026-01-17 01:00:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 926,
+        "Timestamp": "2026-01-19 11:32:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 927,
+        "Timestamp": "2026-01-03 20:39:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 928,
+        "Timestamp": "2026-01-01 22:42:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 929,
+        "Timestamp": "2026-01-05 06:19:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 930,
+        "Timestamp": "2026-01-12 22:52:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 931,
+        "Timestamp": "2026-01-02 15:54:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 932,
+        "Timestamp": "2026-01-19 22:11:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 933,
+        "Timestamp": "2026-01-22 19:27:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 934,
+        "Timestamp": "2026-01-16 10:36:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 935,
+        "Timestamp": "2026-01-26 01:20:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 936,
+        "Timestamp": "2026-01-24 00:21:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 937,
+        "Timestamp": "2026-01-11 02:33:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 938,
+        "Timestamp": "2026-01-16 06:58:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 939,
+        "Timestamp": "2026-01-06 23:55:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 940,
+        "Timestamp": "2026-01-19 22:53:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 941,
+        "Timestamp": "2026-01-25 11:53:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 942,
+        "Timestamp": "2026-01-26 19:17:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 943,
+        "Timestamp": "2026-01-19 05:21:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 944,
+        "Timestamp": "2026-01-15 12:45:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 945,
+        "Timestamp": "2026-01-09 23:18:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 946,
+        "Timestamp": "2026-01-15 07:16:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 947,
+        "Timestamp": "2026-01-02 07:24:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 948,
+        "Timestamp": "2026-01-21 03:25:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 949,
+        "Timestamp": "2026-01-13 22:11:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 950,
+        "Timestamp": "2026-01-13 21:01:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 951,
+        "Timestamp": "2026-01-04 23:49:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 952,
+        "Timestamp": "2026-01-27 06:21:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 953,
+        "Timestamp": "2026-01-04 03:37:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 954,
+        "Timestamp": "2026-01-13 21:50:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 955,
+        "Timestamp": "2026-01-10 17:25:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 956,
+        "Timestamp": "2026-01-22 23:36:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 957,
+        "Timestamp": "2026-01-04 16:27:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 958,
+        "Timestamp": "2026-01-19 06:32:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 959,
+        "Timestamp": "2026-01-04 07:58:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 960,
+        "Timestamp": "2026-01-29 21:34:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 961,
+        "Timestamp": "2026-01-22 17:23:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 962,
+        "Timestamp": "2026-01-30 14:37:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 963,
+        "Timestamp": "2026-01-08 22:49:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 964,
+        "Timestamp": "2026-01-16 11:17:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 965,
+        "Timestamp": "2026-01-06 15:07:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 966,
+        "Timestamp": "2026-01-25 10:05:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 967,
+        "Timestamp": "2026-01-02 06:15:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 968,
+        "Timestamp": "2026-01-02 01:26:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 969,
+        "Timestamp": "2026-01-21 20:01:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 970,
+        "Timestamp": "2026-01-18 16:33:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 971,
+        "Timestamp": "2026-01-22 08:44:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 972,
+        "Timestamp": "2026-01-28 14:53:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 973,
+        "Timestamp": "2026-01-15 05:19:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 974,
+        "Timestamp": "2026-01-15 18:21:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 975,
+        "Timestamp": "2026-01-26 05:05:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 976,
+        "Timestamp": "2026-01-03 23:02:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 977,
+        "Timestamp": "2026-01-17 23:42:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 978,
+        "Timestamp": "2026-01-12 06:04:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 979,
+        "Timestamp": "2026-01-16 20:08:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 980,
+        "Timestamp": "2026-01-22 16:33:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 981,
+        "Timestamp": "2026-01-02 19:31:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 982,
+        "Timestamp": "2026-01-06 16:30:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 983,
+        "Timestamp": "2026-01-15 18:03:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 984,
+        "Timestamp": "2026-01-05 09:03:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 985,
+        "Timestamp": "2026-01-30 16:46:00",
+        "Factory": "Torino Factory",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 986,
+        "Timestamp": "2026-01-01 15:02:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 987,
+        "Timestamp": "2026-01-01 00:25:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 988,
+        "Timestamp": "2026-01-06 19:17:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 989,
+        "Timestamp": "2026-01-03 07:42:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Motore Elettrico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 990,
+        "Timestamp": "2026-01-24 15:02:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 991,
+        "Timestamp": "2026-01-13 04:46:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 992,
+        "Timestamp": "2026-01-23 08:31:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 993,
+        "Timestamp": "2026-01-07 22:37:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 994,
+        "Timestamp": "2026-01-21 18:20:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Pompa Idraulica",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 995,
+        "Timestamp": "2026-01-28 05:47:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 996,
+        "Timestamp": "2026-01-12 11:32:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 997,
+        "Timestamp": "2026-01-04 03:43:00",
+        "Factory": "Bologna Hub",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Healthy"
+    },
+    {
+        "RecordID": 998,
+        "Timestamp": "2026-01-08 10:19:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Valvola Pressione",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 999,
+        "Timestamp": "2026-01-25 09:41:00",
+        "Factory": "Milano Plant",
+        "DeviceType": "Sensore Temperatura",
+        "Status": "Unhealthy"
+    },
+    {
+        "RecordID": 1000,
+        "Timestamp": "2026-01-30 20:40:00",
+        "Factory": "Napoli Site",
+        "DeviceType": "Braccio Robotico",
+        "Status": "Healthy"
+    }
+]
