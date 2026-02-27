@@ -17,8 +17,10 @@ L'obiettivo era identificare le inefficienze produttive in 4 stabilimenti italia
 
 
 ## 🖼️ Dashboard my_first_business_plan
-<img width="1918" height="1078" alt="Screenshot 2026-02-27 222538" src="https://github.com/user-attachments/assets/504c3c6c-f800-4719-b795-1d18348738b0" />
-<img width="1918" height="1078" alt="Screenshot 2026-02-27 222458" src="https://github.com/user-attachments/assets/af0d0c9a-9c8f-430e-9697-9f52eda2ebb5" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f9dc1214-fb35-405d-b514-6cbf2ad32f01" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5d100420-1901-45a2-bcbf-f56a83555877" />
+
 
 
 
